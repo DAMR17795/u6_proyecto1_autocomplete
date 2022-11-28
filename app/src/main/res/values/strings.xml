@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">u6_proyecto1_autocomplete</string>
+    <string name="distancia">Distancia:</string>
+    <string name="poblacion">Poblacion:</string>
+    <string name="descripcion">Descripcion:</string>
+    <string name="hintDescripcion">Introduce Descripcion</string>
+    <string name="hintPoblacion">Introduce tu poblacion</string>
+    <string name="hintDinstancia">Introduce Distancia</string>
+    <string-array name="muchaspoblaciones">
+        <item>Almeria</item>
+        <item>Almerimar</item>
+        <item>Avila</item>
+        <item>Azahara de los Atunes</item>
+        <item>Atocha</item>
+        <item>Alcaudique</item>
+        <item>Aguadulce</item>
+        <item>Adra</item>
+        <item>Albolote</item>
+        <item>Azurita</item>
+    </string-array>
+</resources>
